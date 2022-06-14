@@ -1,0 +1,41 @@
+@charset "utf-8";
+/*CSS Document*/
+p {
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 20px;
+	width: 700px;
+	background-color: rgba(143, 188, 139, 0.5);
+	padding: 15px;
+}
+.novi_blok{
+	background-color:rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin:20px;
+	width:50%;
+	
+}
+h2,h1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Ariel, "sans-serif";
+	color: sienna;	
+}
+span{
+	color:Maroon;
+}
+body{
+	background-color: gainsboro;
+}
+a:link{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color:gray;
+}
+img{
+	height:200px;
+}
